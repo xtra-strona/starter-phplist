@@ -1,0 +1,125 @@
+
+####INFORMACJE OGÓLNE####
+###Tytu³:
+Zapisz siê na nasze newsletter!
+
+###Wprowadzenie:
+<h3>Zapisz Siê na Newsletter</h3>
+
+###Nag³ówek:
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<link rel="apple-touch-icon" href="./images/phplist-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="./images/phplist-touch-icon.png" />
+<link rel="stylesheet" href="styles/subscribe.css" type="text/css" />
+<link rel="stylesheet" href="styles/color.css" type="text/css" />
+<style>
+.poweredby {
+display: none;
+}
+</style>
+
+</head>
+
+<body class="fixed">
+
+<div id="container">
+
+<div id="header" >
+<div id="rack-functions">
+<h1 id="logo"><a href="http://subscribe.rafol.pl" title="Visit our website">[ORGANISATION_NAME]</a></h1>
+</div>
+</div>
+<div id="wrapper">
+<div id="mainContent">
+
+<div class="panel">
+<div class="content">
+
+###Stopka:
+</div>
+</div>
+</div><!-- ENDOF #mainContent-->
+</div><!-- ENDOF .wrapper -->
+</div><!-- ENDOF #container -->
+
+<div id="footer">
+<div id="footerframe">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+</div>
+
+</body>
+
+</html>
+
+###Strona Z Podziêkowaniem:
+<h3>Dziêki Za subskrybowanie Naszego Biuletynu.</h3>
+Twój adres e-mail zosta³ dodany do naszego systemu. Otrzymasz wiadomoœæ z proœb¹ o potwierdzenie cz³onkostwa.
+Pamiêtaj, aby klikn¹æ w link w tej wiadomoœci, aby potwierdziæ subskrypcjê.
+
+Tekst do wyœwietlenia, gdy subskrypcja z ¿¹dania AJAX by³a udana:
+<h3>Zosta³eœ dodany do naszego Biuletynu</h3>
+<p>Otrzymasz od nas wiadomoœæ e-mail. Kliknij link w tej wiadomoœci e-mail, aby potwierdziæ subskrypcjê</p>
+
+###Tekst dla przycisku:
+Suybskrybój na wybrane Newslettery
+
+
+####KOMUNIKATY####
+
+###temat:
+Potwierdzenie subskrypcji
+
+###Wiadomoœæ:
+Prawie ju¿ Jesteœ zapisany(a) do Newslettera...
+
+Mamy nadziejê ¿e przy³¹czysz siê do newslettera poni¿ej:
+
+[LISTS]
+
+Jeœli wszystko jest ok to wystarczy ¿e klikniesz w link potwierdzaj¹cy.
+
+[CONFIRMATIONURL]
+
+Jak potwierdzi³eœ nasz Newsletter to ju¿ mo¿esz zwyczajnie usun¹æ t¹ wiadomoœæ.
+
+Dziêkujemy
+
+###Potwierdzenie subskrypcji newslettera:
+###temat:
+Zapraszamy do newslettera
+
+###Wiadomoœæ:
+Zapraszamy do newslettera
+
+  Proszê zachowaæ tê wiadomoœæ do wgl¹du.
+
+Twój adres e-mail zosta³ dodany do nastêpnego biuletynu (ów):
+  [LISTS]
+
+ Aby zaktualizowaæ swoje dane i preferencje przejdŸ do[PREFERENCESURL].
+  Jeœli nie chcesz otrzymywaæ wiêcej wiadomoœci, przejdŸ do [UNSUBSCRIBEURL].
+
+Dziêkujê Ci
+
+###Rezygnacja z subskrypcji:
+###temat:
+Rezygnacja z newslettera
+
+###Wiadomoœæ:
+Do widzenia siê z newslettera, szkoda ¿e nas opuszczasz.
+
+  Twoja Subskrypcja zosta³a usuniêta z naszych biuletynów.
+
+  Jest to ostatni e-mail otrzymany od nas. Nasz system biuletynowy,
+  nie bêdzie wysy³aæ do Ciebie ¿adnych dalszych wiadomoœci, bez koniecznoœci rêcznej interwencji przez naszego administratora.
+
+  Jeœli jest b³¹d w tej informacji, mo¿na ponownie zapisaæ siê:
+  przechodz¹c do [SUBSCRIBEURL] oraz postêpuj zgodnie z instrukcjami.
+
+  Dziêkujê Ci
+
+
